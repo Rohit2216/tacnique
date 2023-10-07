@@ -38,7 +38,7 @@ const swaggerOptions = {
       },
       servers: [
         {
-          url: `http://localhost:${process.env.port}/`, // Replace with your server URL
+          url: `https://tacnique-500v.onrender.com/`, // Replace with your server URL
           description: 'Development server',
         },
       ],
