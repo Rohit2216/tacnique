@@ -7,6 +7,9 @@ Task Management API is a robust and secure backend system designed to help users
 
 For detailed information on endpoints, authentication, and usage, refer to our [Swagger Documentation](https://tacnique-500v.onrender.com/api-docs/). Additionally, you can explore and test the API using [Postman Documentation](https://documenter.getpostman.com/view/25333582/2s9YJgSzVd).
 
+- [Swagger Documentation Link](https://tacnique-500v.onrender.com/api-docs/)
+- [Postman Documentation Link](https://documenter.getpostman.com/view/25333582/2s9YJgSzVd)
+
 ## Table of Contents
 
 - [Overview](#overview)
