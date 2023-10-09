@@ -57,7 +57,6 @@ Task Management API is a comprehensive and secure backend solution designed to e
 1. **Clone the Repository:**
    ```
    git clone <repository_url>
-   cd task-management-api
    ```
 
 2. **Install Dependencies:**
